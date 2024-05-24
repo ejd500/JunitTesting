@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfba9d44-a9e8-4f3b-b678-9f0853d2e76a" name="Changes" comment="May24">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bfba9d44-a9e8-4f3b-b678-9f0853d2e76a" name="Changes" comment="Updated Java Version to 22" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -182,11 +180,20 @@
       <option name="project" value="LOCAL" />
       <updated>1716563202069</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updated Java Version to 22">
+      <option name="closed" value="true" />
+      <created>1716563975339</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716563975339</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="May24" />
-    <option name="LAST_COMMIT_MESSAGE" value="May24" />
+    <MESSAGE value="Updated Java Version to 22" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Java Version to 22" />
   </component>
 </project>
